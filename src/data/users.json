@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "gender": "female",
+    "name": { "title": "Ms", "first": "Olena", "last": "Kovalenko" },
+    "location": { "city": "Kyiv", "country": "Ukraine" },
+    "email": "olena.kovalenko@example.com",
+    "phone": "+380 50 123 4567",
+    "picture": "/users/1.jpg",
+    "dob": { "date": "1999-04-12T00:00:00.000Z", "age": 27 },
+    "hobbies": ["Читання", "Йога", "Подорожі"],
+    "details": "Працює дизайнеркою інтерфейсів, любить гірські походи."
+  },
+  {
+    "id": 2,
+    "gender": "male",
+    "name": { "title": "Mr", "first": "Andrii", "last": "Shevchenko" },
+    "location": { "city": "Lviv", "country": "Ukraine" },
+    "email": "andrii.shevchenko@example.com",
+    "phone": "+380 67 765 4321",
+    "picture": "/users/2.jpg",
+    "dob": { "date": "2010-09-30T00:00:00.000Z", "age": 16 },
+    "hobbies": ["Футбол", "Відеоігри"],
+    "details": "Школяр, займається в футбольній секції."
+  },
+  {
+    "id": 3,
+    "gender": "female",
+    "name": { "title": "Mrs", "first": "Iryna", "last": "Bondarenko" },
+    "location": { "city": "Kharkiv", "country": "Ukraine" },
+    "email": "iryna.bondarenko@example.com",
+    "phone": "+380 93 222 3344",
+    "picture": "/users/3.jpg",
+    "dob": { "date": "1992-02-20T00:00:00.000Z", "age": 34 },
+    "hobbies": ["Випічка", "Садівництво", "Фотографія"],
+    "details": "Викладає біологію в університеті."
+  },
+  {
+    "id": 4,
+    "gender": "male",
+    "name": { "title": "Mr", "first": "Taras", "last": "Melnyk" },
+    "location": { "city": "Odesa", "country": "Ukraine" },
+    "email": "taras.melnyk@example.com",
+    "phone": "+380 63 555 6677",
+    "picture": "/users/4.jpg",
+    "dob": { "date": "1974-05-03T00:00:00.000Z", "age": 52 },
+    "hobbies": ["Рибалка", "Шахи"],
+    "details": "Капітан торгового флоту, у вільний час ремонтує човни."
+  },
+  {
+    "id": 5,
+    "gender": "female",
+    "name": { "title": "Miss", "first": "Sofiia", "last": "Kravchenko" },
+    "location": { "city": "Dnipro", "country": "Ukraine" },
+    "email": "sofiia.kravchenko@example.com",
+    "phone": "+380 66 101 2020",
+    "picture": "/users/5.jpg",
+    "dob": { "date": "2011-03-18T00:00:00.000Z", "age": 15 },
+    "hobbies": ["Малювання", "Танці", "Скрапбукінг"],
+    "details": "Учениця художньої школи, мріє стати архітекторкою."
+  },
+  {
+    "id": 6,
+    "gender": "male",
+    "name": { "title": "Mr", "first": "Maksym", "last": "Tkachenko" },
+    "location": { "city": "Chernivtsi", "country": "Ukraine" },
+    "email": "maksym.tkachenko@example.com",
+    "phone": "+380 97 303 4040",
+    "picture": "/users/6.jpg",
+    "dob": { "date": "2004-07-09T00:00:00.000Z", "age": 22 },
+    "hobbies": ["Програмування", "Велоспорт", "Гітара"],
+    "details": "Студент 4 курсу, робить власний pet-проєкт на Vue."
+  },
+  {
+    "id": 7,
+    "gender": "female",
+    "name": { "title": "Mrs", "first": "Nataliia", "last": "Lysenko" },
+    "location": { "city": "Poltava", "country": "Ukraine" },
+    "email": "nataliia.lysenko@example.com",
+    "phone": "+380 50 808 9090",
+    "picture": "/users/7.jpg",
+    "dob": { "date": "1981-01-25T00:00:00.000Z", "age": 45 },
+    "hobbies": ["Кулінарія", "Вишивка"],
+    "details": "Керівниця відділу кадрів, збирає колекцію рушників."
+  },
+  {
+    "id": 8,
+    "gender": "male",
+    "name": { "title": "Mr", "first": "Volodymyr", "last": "Savchenko" },
+    "location": { "city": "Vinnytsia", "country": "Ukraine" },
+    "email": "volodymyr.savchenko@example.com",
+    "phone": "+380 67 414 5151",
+    "picture": "/users/8.jpg",
+    "dob": { "date": "1959-08-14T00:00:00.000Z", "age": 67 },
+    "hobbies": ["Пасіка", "Історія", "Шахи"],
+    "details": "Пенсіонер, колишній інженер, тримає пасіку за містом."
+  },
+  {
+    "id": 9,
+    "gender": "female",
+    "name": { "title": "Ms", "first": "Kateryna", "last": "Moroz" },
+    "location": { "city": "Zhytomyr", "country": "Ukraine" },
+    "email": "kateryna.moroz@example.com",
+    "phone": "+380 96 616 7272",
+    "picture": "/users/9.jpg",
+    "dob": { "date": "2008-06-02T00:00:00.000Z", "age": 18 },
+    "hobbies": ["Плавання", "Фотографія"],
+    "details": "Першокурсниця, вступила на журналістику."
+  },
+  {
+    "id": 10,
+    "gender": "male",
+    "name": { "title": "Mr", "first": "Oleksandr", "last": "Petrenko" },
+    "location": { "city": "Ivano-Frankivsk", "country": "Ukraine" },
+    "email": "oleksandr.petrenko@example.com",
+    "phone": "+380 50 727 8383",
+    "picture": "/users/10.jpg",
+    "dob": { "date": "1988-03-01T00:00:00.000Z", "age": 38 },
+    "hobbies": ["Скелелазіння", "Подорожі", "Кінематограф"],
+    "details": "Менеджер проєктів в IT-компанії, ходить у гори щовихідних."
+  }
+]
